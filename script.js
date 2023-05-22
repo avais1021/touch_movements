@@ -5,8 +5,8 @@ let treeArray = Array.from(tree);
 console.log(treeArray);
 
 //tree movements 
-let treeStartPoint = -80;
-let treeRange = 160;
+let treeStartPoint = -45;
+let treeRange = 120;
 
 
 // mouse X position 
